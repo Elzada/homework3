@@ -7,9 +7,10 @@ public class Main {
         names[2] = "Elena";
         for (String j : names) ;
 
-        switch (j) {
-            case "Miraida";
-                System.out.println();
+
+
+
+
         }
     }
 }
